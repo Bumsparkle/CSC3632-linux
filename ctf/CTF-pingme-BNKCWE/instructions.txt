@@ -1,0 +1,1 @@
+Go to http://10.0.0.5/pingme/mLc3oLSE/index.php and find out how to get the flag!

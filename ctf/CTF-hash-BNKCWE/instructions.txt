@@ -1,0 +1,8 @@
+In this challenge, you need to use the tool "curl" to interact with a specific webpage, 
+which is only accessible through your Azure Lab VM.
+
+The first time you interact, the webpage will tell you which message to hash using MD5. 
+You need to interact with the page again, passing the MD5 hash as the GET parameter "hash". 
+
+
+http://10.0.0.5/hash/38t1a1nM/index.php

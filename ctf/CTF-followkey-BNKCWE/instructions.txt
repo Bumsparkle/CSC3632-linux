@@ -1,0 +1,2 @@
+  This is a very simple key exchange protocol: the client asks for a key, which the server sends, and then then server sends the flag encrypted with that key. 
+  It will be easier to complete this challenge if you've already completed the AES challenge (although the encryption parameters might be a bit different ...)

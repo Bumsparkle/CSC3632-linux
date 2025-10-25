@@ -1,0 +1,6 @@
+
+In this challenge, there is no encryption, but there is encoding. The flag is obtained by the client in two steps: first by greeting properly, and then by checking the flag. Can you follow the exchange between the client and the server?
+
+  The client did a network analysis of the server before starting the protocol, by running ping and nmap, which explains the number of packets!
+  
+  Note: The flag for this challenge is NOT encapsulated. You will need to find the right sequence of 12 characters and encapsulate yourself in flag{...}

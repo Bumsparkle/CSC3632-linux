@@ -1,0 +1,15 @@
+Crack the hashes!
+
+In this excercise we try a scenario in which we have a managed to gain access to a database and download the usernames and password! The passwords however are hashed how will we gain access to them?
+
+Feel free to make use of any suitable tools for cracking the password hashes, the format of the file is "Username":"hashed password"
+
+John knows a lot obout this kind of thing try asking him for help (access your kali VM and type "john" to see options). You might however need to know which format has been used for the hashes ...
+
+The FLAG is the first letter of every password you crack put together! E.g if the cracked passwords are the following 
+- password
+- Thomas
+- qwerty
+- security
+
+The flag will be "flag{pTqs}". Order and case matter!
